@@ -3,6 +3,7 @@ name = "mocksay"
 version = "0.1.0"
 authors = ["Theo Syslack <theosyslack@gmail.com>"]
 edition = "2018"
+description = "cOnVeRtS PlAiN TeXt tO MoCkInG TeXt"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
